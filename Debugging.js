@@ -1,6 +1,5 @@
 /*
-Author:Animesh Dutta
-Created On:Dec 30,2017
+Author:Animesh Dutta (Ananya Birla)
 File Description:External Javascript file for Debugging
 File Name:Debugging.js  
 */             
